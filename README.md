@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/MiPoNianYou/Catppuccin-Telegram/stargazers"><img alt="Stargazers" src="https://img.shields.io/github/stars/MiPoNianYou/Catppuccin-Telegram?colorA=303446&colorB=babbf1&style=for-the-badge&logo=starship&logoColor=babbf1"></a>
-  <a href="https://github.com/MiPoNianYou/Catppuccin-Telegram/issues"><img alt="Issues" src="https://img.shields.io/github/issues/MiPoNianYou/Catppuccin-Telegram?colorA=303446&colorB=ef9f76&style=for-the-badge&logo=github&logoColor=ef9f76"></a>
+  <a href="https://github.com/MiPoNianYou/Catppuccin-Telegram/issues"><img alt="Issues" src="https://img.shields.io/github/issues/MiPoNianYou/Catppuccin-Telegram?colorA=303446&colorB=ef9f76&style=for-the-badge&logo=bugsnag&logoColor=ef9f76"></a>
   <a href="https://github.com/MiPoNianYou/Catppuccin-Telegram/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/MiPoNianYou/Catppuccin-Telegram?colorA=303446&colorB=a6d189&style=for-the-badge&logo=github&logoColor=a6d189"></a>
 </p>
 
@@ -31,10 +31,10 @@
 
 | Flavor / 色彩 | Overview / 概述 | Link / 链接 |
 | :-: | :-: | :-: |
-| 🌻 **Latte** | *Lightest / 浅色主题* | [Get Theme / 获取主题](https://t.me/addtheme/mipoCatppuccinLatte) |
-| 🪴 **Frappé** | *Less Dark / 轻度深色* | [Get Theme / 获取主题](https://t.me/addtheme/mipoCatppuccinFrappe) |
-| 🌺 **Macchiato** | *Medium Dark / 中度深色* | [Get Theme / 获取主题](https://t.me/addtheme/mipoCatppuccinMacchiato) |
-| 🌿 **Mocha** | *Original Darkest / 原始深色* | [Get Theme / 获取主题](https://t.me/addtheme/mipoCatppuccinMocha) |
+| 🌻 **Latte** | *Lightest / 浅色主题* | [![Get Theme](https://img.shields.io/badge/Get%20Theme%20%2F%20获取主题-8caaee?style=for-the-badge&logo=telegram&logoColor=8caaee&colorA=303446)](https://t.me/addtheme/mipoCatppuccinLatte) |
+| 🪴 **Frappé** | *Less Dark / 轻度深色* | [![Get Theme](https://img.shields.io/badge/Get%20Theme%20%2F%20获取主题-8caaee?style=for-the-badge&logo=telegram&logoColor=8caaee&colorA=303446)](https://t.me/addtheme/mipoCatppuccinFrappe) |
+| 🌺 **Macchiato** | *Medium Dark / 中度深色* | [![Get Theme](https://img.shields.io/badge/Get%20Theme%20%2F%20获取主题-8caaee?style=for-the-badge&logo=telegram&logoColor=8caaee&colorA=303446)](https://t.me/addtheme/mipoCatppuccinMacchiato) |
+| 🌿 **Mocha** | *Original Darkest / 原始深色* | [![Get Theme](https://img.shields.io/badge/Get%20Theme%20%2F%20获取主题-8caaee?style=for-the-badge&logo=telegram&logoColor=8caaee&colorA=303446)](https://t.me/addtheme/mipoCatppuccinMocha) |
 
 <br/>
 
@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/MiPoNianYou/Catppuccin-Telegram/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=c6d0f5&colorA=303446&colorB=babbf1"/></a>
+	<a href="https://github.com/MiPoNianYou/Catppuccin-Telegram/blob/main/LICENSE"><img alt="License-MIT" src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=c6d0f5&colorA=303446&colorB=babbf1"/></a>
 </p>
