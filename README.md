@@ -29,7 +29,7 @@
 > <br/>
 > 此主题仅适用于 **Telegram 桌面版**
 
-| Flavor / 色彩 | Description / 描述 | Link / 链接 |
+| Flavor / 色彩 | Overview / 概述 | Link / 链接 |
 | :-: | :-: | :-: |
 | 🌻 **Latte** | *Lightest / 浅色主题* | [Get Theme / 获取主题](https://t.me/addtheme/mipoCatppuccinLatte) |
 | 🪴 **Frappé** | *Less Dark / 轻度深色* | [Get Theme / 获取主题](https://t.me/addtheme/mipoCatppuccinFrappe) |
